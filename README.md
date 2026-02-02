@@ -1,4 +1,4 @@
-# Python Visual Computing
+# Visual Computing
 
 A collection of visual computing projects demonstrating image processing and computer graphics fundamentals, implemented from scratch in Python.
 
